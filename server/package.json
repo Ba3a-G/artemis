@@ -1,11 +1,11 @@
 {
-  "name": "server",
+  "name": "nasa-project-api",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js",
-    "watch": "nodemon server.js"
+    "start": "node src/server.js",
+    "watch": "nodemon src/server.js"
   },
   "author": "Ba3a",
   "license": "Apache-2.0",
